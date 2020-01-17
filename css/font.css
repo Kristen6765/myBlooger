@@ -1,0 +1,24 @@
+/* google font */
+/* font-family: Muli */
+@font-face{
+    font-family: Muli;
+    src: url('../fonts/Muli/Muli-VariableFont:wght.ttf');
+}
+
+/* font-family: Baskervville */
+@font-face{
+    font-family: Baskervville;
+    src: url('../fonts/Baskervville/Baskervville-Regular.ttf');
+}
+
+/* font-family: Open-san */
+@font-face{
+    font-family: Open_Sans_Condensed;
+    src: url('../fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf');
+}
+
+/* font-family: Playfair_Display*/
+@font-face{
+    font-family: Playfair_Display;
+    src: url('../fonts/Playfair_Display/PlayfairDisplay-Regular.ttf');
+}
